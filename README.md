@@ -6,8 +6,7 @@
 ### <center> Hello, I'm slowlyseo 👋 </center>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowlyseo)](https://github.com/slowlyseo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowlyseo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowlyseo)](https://github.com/slowlyseo/github-readme-stats)
 
 
 ## today 🤸‍♀️🤸‍♂️
