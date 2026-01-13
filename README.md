@@ -4,8 +4,6 @@
 
 ### <center> Hello, I'm slowlyseo 👋 </center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowlyseo)](https://github.com/slowlyseo/github-readme-stats)
-
 ## Study-ing ✍
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=000000"/>
